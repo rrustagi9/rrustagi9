@@ -9,3 +9,4 @@ My name is Rahul Rustagi and I currently work as a Data Scientist.
 - 💬 Ask me about Data Science and Machine Learning
 - 📫 How to reach me: rrustagi9@gmail.com
 
+<img src= ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrustagi9&theme=dark&show_icons=true)
