@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Rahul Rustagi and I currently work as a Data Scientist.
+My name is Rahul Rustagi and I currently work as a Data Scientist at Great Learning.
 
 - 🔭 I’m currently working on Deep Learning problems especially in the NLP Domain.
 - 🌱 I’m currently learning MLops and API integration with ML 
